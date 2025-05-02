@@ -12,10 +12,9 @@ Une application mobile pour surveiller et optimiser la consommation d'énergie d
 - 🌍 Comparaison avec des foyers similaires.
 
 ## 🛠️ Technologies
-- **Frontend** : React Native (iOS/Android).
-- **Backend** : Node.js + Express.
-- **Base de données** : Firebase / MongoDB.
-- **Capteurs** : Intégration IoT (ex : compteurs connectés).
+- **Frontend** : Kotlin (Android).
+- **Backend** : Firebase.
+- **Base de données** : Firebase Firestore..
 
 ## 🚀 Installation
 1. Cloner le dépôt :
